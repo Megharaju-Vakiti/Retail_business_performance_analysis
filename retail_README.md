@@ -42,10 +42,9 @@ This project delivers a **full-cycle retail analytics solution** — from raw tr
 
 ## 🖼️ Dashboard Preview
 
-> *Add your Power BI dashboard screenshots here*
 
 | Revenue Overview | Customer Segments | Order Status |
-|---|---|---|
+|-|-|-|
 | *(screenshot)* | *(screenshot)* | *(screenshot)* |
 
 ---
