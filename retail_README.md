@@ -45,7 +45,7 @@ This project delivers a **full-cycle retail analytics solution** — from raw tr
 
 | Revenue Overview | Customer Segments | Order Status |
 |-|-|-|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* |
+|*<img width="1055" height="590" alt="image" src="https://github.com/user-attachments/assets/0d28d49b-eab6-4502-8055-c370549b0395" />*|*<img width="1054" height="595" alt="image" src="https://github.com/user-attachments/assets/3ad31576-9226-4536-b6bd-4cbd11cc25eb" />*|*<img width="1054" height="596" alt="image" src="https://github.com/user-attachments/assets/817b5bac-fc91-4cd6-83f1-af6125c7eeab" />*|
 
 ---
 
